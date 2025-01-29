@@ -1,7 +1,9 @@
 # Bike-Rental-Shop
 
 Tools & Technologies: SQL
+
 Dataset: Multiple tables including customers, bikes, rentals, membership types, and memberships
+
 Key Analyses:
 o	Identified total bike ownership by category
 o	Analyzed customer memberships and total purchases per customer
